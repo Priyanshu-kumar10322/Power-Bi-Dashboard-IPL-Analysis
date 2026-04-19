@@ -31,28 +31,28 @@ A key business requirement is to enable users to select any season using a slice
 
 A key business requirement is to enable users to select any season using a slicer/filter and instantly view:
 
--Orange Cap Stats
--Orange Cap Holder Name
-Total Runs Scored in the season
-Team Name the player represented
-Player Image (dynamically rendered)
+-- Orange Cap Stats
+-- Orange Cap Holder Name
+-- Total Runs Scored in the season
+-- Team Name the player represented
+-- Player Image (dynamically rendered)
 
 Purple Cap Stats
-Purple Cap Holder Name
-Total Wickets in the season
-Team Name the player represented
-Player Image (dynamically rendered)
+-- Purple Cap Holder Name
+-- Total Wickets in the season
+-- Team Name the player represented
+--Player Image (dynamically rendered)
 
 Total Fours in Season
-Player Name
-Total Fours in the season
-Team Name the player represented
-Player Image (dynamically rendered)
+-- Player Name
+-- Total Fours in the season
+-- Team Name the player represented
+-- Player Image (dynamically rendered)
 
 Total Sixes in Season
-Player Name
-Total Six's in the season
-Team Name the player represented
-Player Image (dynamically rendered)
+-- Player Name
+-- Total Six's in the season
+-- Team Name the player represented
+-- Player Image (dynamically rendered)
 
 
