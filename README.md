@@ -63,5 +63,10 @@ Data on IPL Analysis 2008 - 2025 , including details on their season_id	,match_i
 
 6. ScreenShorts
 
-[Dashboard Preview] 
+[Dashboard Preview]https://github.com/Priyanshu-kumar10322/Power-Bi-Dashboard-IPL-Analysis-/blob/main/IPL%20Analysis%20(2024).png
+
+[Dashboard Preview]https://github.com/Priyanshu-kumar10322/Power-Bi-Dashboard-IPL-Analysis-/blob/main/IPL%20Anylasis%20(2025).png
+
+[Data Modeling View]https://github.com/Priyanshu-kumar10322/Power-Bi-Dashboard-IPL-Analysis-/blob/main/Model%20View.png
+
 
