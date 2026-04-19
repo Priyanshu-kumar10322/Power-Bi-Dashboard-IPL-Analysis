@@ -31,7 +31,7 @@ A key business requirement is to enable users to select any season using a slice
 
 A key business requirement is to enable users to select any season using a slicer/filter and instantly view:
 
--- Orange Cap Stats
+Orange Cap Stats
 -- Orange Cap Holder Name
 -- Total Runs Scored in the season
 -- Team Name the player represented
